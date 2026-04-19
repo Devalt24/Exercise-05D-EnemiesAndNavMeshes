@@ -8,4 +8,6 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Daniel valdes 
+
+Devalt24
